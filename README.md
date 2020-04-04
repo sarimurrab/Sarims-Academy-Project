@@ -1,2 +1,2 @@
-# Project--Sarim-s-Academy
+# Project Sarim's Academy
 Fully Functional Desktop App using Python tkinter and Sqlite3
